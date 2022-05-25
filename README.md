@@ -1,1 +1,1 @@
-# PEdagog-Quizlet
+# Pedagog-Quizlet
